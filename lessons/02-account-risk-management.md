@@ -1,6 +1,22 @@
 # Lesson 02 - Account Management
 
-*Original lesson from the MAK Trading School curriculum (July 2022). Content preserved as written for members; formatting adapted for markdown.*
+> **ARCHIVED 2022 EDUCATION ARTIFACT - NOT CURRENT INVESTMENT ADVICE.** This lesson is published only to document the historical MAK Trading School curriculum. The percentages and dollar amounts below are historical classroom examples, not recommended position sizes, stop levels, or suitability guidance. Options can lose 100% of premium rapidly, involve assignment and liquidity risk, and are not appropriate for every person.
+
+## 2026 editor's note
+
+The original lesson below is preserved for provenance, but its numerical examples should not be applied as rules:
+
+- Position size should reflect a person's objectives, financial situation, risk capacity, concentration, maximum acceptable loss, contract liquidity, premium at risk, expiry, volatility, and the full position structure. Account balance alone is not enough.
+- Allocating 10% of an account to a long option can expose that amount to a total loss; the lesson's 10% and 2-4% figures are not validated safe limits.
+- The example that halves position size while widening a stop from 20% to 40% keeps the same nominal dollar risk (`$800 x 20% = $160`; `$400 x 40% = $160`) before slippage and fees. It does not automatically reduce risk, and option prices can gap through stop levels.
+- "Successful trader" language reflects the original instructional voice. This archive provides no evidence of learner profitability, mastery, or suitability.
+- Options education should include exercise and assignment, time decay, implied volatility, liquidity, spreads, fees, tax considerations, and the possibility that an exit is unavailable at the expected price.
+
+Current official risk references: [OCC Options Disclosure Document](https://www.theocc.com/company-information/documents-and-archives/options-disclosure-document), [FINRA Options overview](https://www.finra.org/investors/investing/investment-products/options), and [Investor.gov introduction to options](https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins-63).
+
+*Original lesson from the MAK Trading School curriculum (July 2022). Historical wording is retained below, with formatting adapted for markdown.*
+
+## Archived lesson
 
 Proper account management for a successful trader determines how committed the trader is to a certain planned-out strategy and to forming good lasting habits throughout his/her trading career. In practicing proper risk management, a successful trader needs to ensure survival of their account, especially when starting out to trade their first positions or testing a new strategy, along with growing their account at a comfortable pace so as the trader keeps himself/herself within practice.
 
