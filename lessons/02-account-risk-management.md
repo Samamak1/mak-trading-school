@@ -1,4 +1,4 @@
-# Lesson 02 — Account Management
+# Lesson 02 - Account Management
 
 *Original lesson from the MAK Trading School curriculum (July 2022). Content preserved as written for members; formatting adapted for markdown.*
 
@@ -18,10 +18,10 @@ Properly sizing positions depends on a number of factors:
 
 ## 2. Small Account and Large Account Position Sizing
 
-- **Small Account ($2,000–$5,000)** — or if you are just starting out: it may be best to test out your strategy and build your confidence with a relatively small percentage of your capital (10%). It is highly recommended that you stick to this percentage until you have achieved consistency for multiple months, or you are comfortable with a constant train of profits.
-  - *Example: Start out by spending no more than $200–$500 per contract.*
-- **Large Account ($100,000 or more):** it is recommended that you first gain your consistency with a relatively smaller percentage than you would use in a smaller account. You can start with 2–4% of your capital and portion your size according to the trades and their strength.
-  - *Example: Start out with no more than $2,000–$4,000 per contract.*
+- **Small Account ($2,000-$5,000)** - or if you are just starting out: it may be best to test out your strategy and build your confidence with a relatively small percentage of your capital (10%). It is highly recommended that you stick to this percentage until you have achieved consistency for multiple months, or you are comfortable with a constant train of profits.
+  - *Example: Start out by spending no more than $200-$500 per contract.*
+- **Large Account ($100,000 or more):** it is recommended that you first gain your consistency with a relatively smaller percentage than you would use in a smaller account. You can start with 2-4% of your capital and portion your size according to the trades and their strength.
+  - *Example: Start out with no more than $2,000-$4,000 per contract.*
 
 ## 3. Always Follow Process Over Profits
 
@@ -35,7 +35,7 @@ Secure your profits properly using a systematic approach. Know when to exit a po
 
 ### Securing profits
 
-Consider taking a percentage of profits during certain intervals by selling fractions from your original positions. This takes a load off you by securing profits at each advance of the trade. Even if you leave some money on the table, that's okay — the most important part is that you had cleverly paid yourself and have given yourself the opportunity to possibly see the trade rise to its full potential with a lighter risk.
+Consider taking a percentage of profits during certain intervals by selling fractions from your original positions. This takes a load off you by securing profits at each advance of the trade. Even if you leave some money on the table, that's okay - the most important part is that you had cleverly paid yourself and have given yourself the opportunity to possibly see the trade rise to its full potential with a lighter risk.
 
 Try selling if you can near important support/resistance levels. This strategy may boost up your confidence to hold positions for a longer time; however, be mindful that the trade may not always take the approach as you anticipated.
 

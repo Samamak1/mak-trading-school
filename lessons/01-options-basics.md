@@ -1,4 +1,4 @@
-# Lesson 01 — What Are Options in Trading?
+# Lesson 01 - What Are Options in Trading?
 
 *Original lesson from the MAK Trading School curriculum (January 2022). Content preserved as written for members; formatting adapted for markdown.*
 
@@ -18,7 +18,7 @@ Gives the investor the right (but not the obligation) to **SELL** shares of a st
 
 **Strike Price:** The price at which the option holder buys or sells the stock. It is this price, the option holders expect the value of the stock to be above or below by or before the expiration date.
 
-**Premium:** To enter into an options contract, the trader must pay a Premium. Premiums are bought when entering the contract. A Premium acts as an insurance, protecting the trader against loss, if the ulterior move of the stock price moves in the opposite direction than expected. The trader loses no more than the amount they paid for the option — in this case, the premium.
+**Premium:** To enter into an options contract, the trader must pay a Premium. Premiums are bought when entering the contract. A Premium acts as an insurance, protecting the trader against loss, if the ulterior move of the stock price moves in the opposite direction than expected. The trader loses no more than the amount they paid for the option - in this case, the premium.
 
 ## How a Call Trade Works
 
